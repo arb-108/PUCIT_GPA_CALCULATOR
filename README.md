@@ -1,5 +1,9 @@
 # PUCIT GPA and CGPA Calculator
 
+ **App Download Link:**
+
+   https://github.com/user-attachments/files/16737286/PUCIT_CALC_APP.zip
+
 ## Overview
 
 The **PUCIT GPA and CGPA Calculator** is a simple and intuitive tool designed to help students at the Punjab University College of Information Technology (PUCIT) calculate their GPA (Grade Point Average) and CGPA (Cumulative Grade Point Average). This application allows you to input your grades for each semester and receive an accurate calculation of your academic performance.
